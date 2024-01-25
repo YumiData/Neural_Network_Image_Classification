@@ -2,7 +2,7 @@
 
 ## Project Overview
 (https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/overview)
-[(https://storage.googleapis.com/kaggle-media/competitions/kaggle/3362/media/woof_meow.jpg)]
+![Dogs vs. Cats Image Classification](https://storage.googleapis.com/kaggle-media/competitions/kaggle/3362/media/woof_meow.jpg)
 
 
 
